@@ -1,0 +1,3 @@
+[submodule "MusicBeeApi"]
+	path = MusicBeeApi
+	url = https://github.com/GabrielF-C/MusicBeeApi
